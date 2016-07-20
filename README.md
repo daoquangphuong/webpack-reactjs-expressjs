@@ -8,6 +8,10 @@ Use [Webpack](https://webpack.github.io), [ReactJs](https://facebook.github.io/r
 ```sh
 git clone https://github.com/daoquangphuong/webpack-reactjs-expressjs.git
 ```
+- redirect to folder **webpack-reactjs-expressjs**
+```sh
+cd webpack-reactjs-expressjs
+```
 - install node module
 ```sh
 npm install
