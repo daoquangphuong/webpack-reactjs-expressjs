@@ -16,7 +16,8 @@ cd webpack-reactjs-expressjs
 ```sh
 npm install
 ```
-- finally start
+- start server
 ```sh
 npm start
 ```
+- open [http://localhost:3000](http://localhost:3000) in browser.
