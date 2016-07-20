@@ -1,0 +1,40 @@
+{
+	"name": "webpack-reactjs-expressjs",
+	"version": "1.0.0",
+	"description": "Initial ReactJs project with webpack and expressjs",
+	"main": "server.js",
+	"dependencies": {
+		"react": "^15.2.1",
+		"react-dom": "^15.2.1"
+	},
+	"devDependencies": {
+		"babel-core": "^6.11.4",
+		"babel-loader": "^6.2.4",
+		"babel-polyfill": "^6.9.1",
+		"babel-preset-es2015": "^6.9.0",
+		"babel-preset-react": "^6.11.1",
+		"babel-preset-react-hmre": "^1.1.1",
+		"express": "^4.14.0",
+		"webpack": "^1.13.1",
+		"webpack-dev-middleware": "^1.6.1",
+		"webpack-hot-middleware": "^2.12.1"
+	},
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/daoquangphuong/webpack-reactjs-expressjs.git"
+	},
+	"keywords": [
+		"webpack",
+		"reactjs",
+		"expressjs"
+	],
+	"author": "DQP",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/daoquangphuong/webpack-reactjs-expressjs/issues"
+	},
+	"homepage": "https://github.com/daoquangphuong/webpack-reactjs-expressjs#readme"
+}

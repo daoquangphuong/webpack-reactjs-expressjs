@@ -1,0 +1,4 @@
+#ignore folder
+.idea/
+node_modules/
+dist/
